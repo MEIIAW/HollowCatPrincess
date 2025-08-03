@@ -1,1 +1,6 @@
-
+body {
+  background-image: url('transGirlKisser.jpg');
+  background-size: cover;
+  background-repeat: none;
+  margin: 0;
+}
