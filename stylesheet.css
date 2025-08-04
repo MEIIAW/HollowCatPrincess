@@ -1,5 +1,5 @@
 body {
-  background-image: (main-pattern.jpg);
+  background-image: url(main-pattern.jpg);
   background-size: cover;
   background-repeat: none;
   margin: 0;
